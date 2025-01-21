@@ -2,6 +2,10 @@
 
 This project demonstrates a simple load balancer setup using Docker containers, featuring two Nginx servers serving the same web page and a HAProxy load balancer to distribute traffic between them.
 
+<div align="center">
+  <img src=".assets/imgs/haproxy-diag.png" alt="haproxy-diagram">
+</div>
+
 ---
 
 ## Features
